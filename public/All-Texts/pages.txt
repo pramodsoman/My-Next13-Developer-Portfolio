@@ -1,0 +1,102 @@
+HOME PAGE: 
+
+- Turning Vision Into Reality With Code And Design. 
+- As a skilled full-stack developer, I am dedicated to turning ideas into innovative web applications. 
+Explore my latest projects and articles, showcasing my expertise in React.js and web development.
+
+--------------------------------------------------------------
+
+ABOUT PAGE:
+
+- Passion Fuels Purpose! 
+- Hello! I'm Pramod Somanathan.k.s, a self-taught MERN stack developer dedicated to crafting user-centered digital experiences. With expertise spanning continents and industries, I am always looking for new and innovative ways to bring my client's visions to life.
+
+-I hold the Multi-cloud Network Associate certification from Aviatrix, demonstrating expertise in native networking across AWS, Azure, Google Cloud, and Oracle Cloud, enabling the design and deployment of robust multicloud applications.
+
+- My extensive background in interior project management, overseeing high-profile projects globally, has honed my precision and attention to detail, crucial for large-scale concepts. With valuable skills in efficient project management, MERN stack development, and multi-cloud expertise, I'm eager to bring my comprehensive skill set and passion for innovation to your next project.
+
+--------------------------------------------------------------
+
+EXPERIENCE: 
+
+Self-Taught Software Developer 
+Transitioning
+
+2023-Present | Bangalore, India
+Focused on MERN Stack Excellence: I am wholeheartedly dedicated to mastering the MERN stack, encompassing MongoDB, Express.js, React, and Node.js. Through hands-on learning and immersive projects, I'm actively enhancing my proficiency in these cutting-edge technologies to stand out as a highly skilled Fullstack Developer, ready to contribute effectively in web development roles.
+
+Entrepreneurial Interior Fitout Specialist 
+Self-Employed
+
+2020-2022 | Bangalore, India
+I embarked on an exciting journey as an independent Interior Fitout Contractor, transforming spaces into functional and aesthetically pleasing environments. Managing projects with precision, I collaborated closely with clients to bridge aesthetics and functionality, crafting unique and engaging experiences.
+
+Senior Project Coordinator 
+Smartvision Tecnical Services-Oman | Neotech Engineering-Dubai | 1000 Walls Interior-Qatar |
+
+2015-2019 | Sultanate Of Oman | Dubai(U.A.E) | Qatar | Mauritania
+I'm a technically proficient and highly empowered professional with extensive experience in Interior and Civil construction. My commitment to timely project delivery has consistently led to exceptional customer satisfaction. My role involves coordinating with sub-contractors, managing progress reports, resolving technical issues, and maintaining detailed records. I've successfully completed a recent turnkey project valued at 153,000 OMR (equivalent to approximately 3 crore INR) in the Sultanate of Oman, meeting tight deadlines while upholding quality and craftsmanship standards.
+
+Skill Development Executive Trainer 
+LaborNet Services India Private Limited (LSIPL)
+
+2015 | Thrissur, Kerala-India
+I had the privilege of leading training sessions for 30 students at the government higher secondary school in Thrissur, Kerala, as part of the ASAP skill development program. My role involved instructing students in the skills and techniques vital for success as customer service executives. This experience was truly rewarding, as I had the opportunity to impart my knowledge to the next generation of professionals while enhancing my own teaching and leadership abilities.
+
+
+--------------------------------------------------------------
+
+EDUCATION:
+
+Mechanical Engineering
+Sree Narayana Guru College, Tamil-Nadu
+CGPA: 8.6
+
+Relevant courses in the curriculum encompass a comprehensive range of mechanical and computer engineering subjects, with a strong emphasis on practical, hands-on learning. These courses cover topics such as thermodynamics, fluid mechanics, manufacturing processes, machine design, Computer Applications in Engineering, Computer-Aided Manufacturing (CAM), and Computer-Aided Drafting (CAD), among others.
+
+Plus Two (Science Group)
+Govt Higher Secondary School, Kerala
+CGPA: 8.2
+
+Relevant courses in the curriculum encompass a comprehensive range of scientific subjects, focusing on theoretical understanding and practical application. These courses encompass Physics, Chemistry, Mathematics, and Biology, covering various scientific concepts and applications.
+
+--------------------------------------------------------------
+
+PROJECTS PAGE:
+
+- Imagination Trumps Knowledge!
+
+Movie Application
+Welcome to Movie-App! This web application allows you to make your movie discovery experience enjoyable and user-friendly. It provides a curated list of popular movies by default and allows you to search for specific movies matching your keywords.
+
+Pramod-Tech-Insight News Application
+Welcome to Pramod Tech Insight, a responsive website dedicated to keeping you at the forefront of daily tech, business, programming, science, and gaming news.
+
+--------------------------------------------------------------
+
+ARTICLES PAGE:
+
+- Words Can Change The World! 
+
+Improve How You Architect Webapps
+Patterns.Dev Is A Valuable Resource For Web Developers And Designers, Providing A Collection Of Design Patterns And Component Patterns For Building Powerful Web Apps.
+15 min read
+
+KODEZI
+Kodezi Is A Powerful Tool That Helps Programmers Optimize Their Code In Seconds. Kodezi Will Help You Write Cleaner, More Readable Code, Saving You Time And Effort.
+10 min read
+
+UNDRAW - Undraw Is A Collection Of Beautiful SVG Images/Illustrations Which You Can Customize To Create Better Websites, Products And Applications.
+
+Silky Smooth Scrolling In Reactjs: A Step-By-Step Guide For React Developers
+
+GIT EXPLORER - A Web-Based Tool That Allows Developers To Discover And Explore GitHub Commands With Simple Explanation.
+
+OBSIDIAN - The Obsidian Is A Powerful And Extensible Knowledge Base That Works On Top Of Your Local Folder Of Plain Text Files.
+
+16 Front-End Projects (With Designs) To Help Improve Your Coding Skills
+
+
+
+
+
